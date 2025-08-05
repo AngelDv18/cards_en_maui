@@ -1,0 +1,1 @@
+appp de cards modularizada
