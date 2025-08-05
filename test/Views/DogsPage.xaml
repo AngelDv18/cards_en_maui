@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:test.ViewModels"
+             x:Class="test.Views.DogsPage"
+             Title="Pagina de Perros">
+
+
+
+    <ContentPage.BindingContext>
+        <local:DogsViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Perros"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   BackgroundColor="Blue"
+                   Padding="10"/>
+
+            <CollectionView ItemsSource="{Binding Dogs}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="10" ColumnDefinitions="50, *, Auto">
+                            <Image Source="{Binding Image}" WidthRequest="50" HeightRequest="50"/>
+                            <StackLayout Grid.Column="1">
+                                <Label Text="{Binding Name}" FontAttributes="Bold"/>
+                                <Label Text="{Binding Origin}" FontAttributes="Italic" TextColor="Gray"/>
+                            </StackLayout>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+
+
+</ContentPage>

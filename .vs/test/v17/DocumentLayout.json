@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\viewmodels\\catsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\viewmodels\\catsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\views\\dogspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\views\\dogspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\catspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\catspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\viewmodels\\dogsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\viewmodels\\dogsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\views\\catspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\views\\catspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\views\\dogspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\views\\dogspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\catspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\catspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\angel\\source\\repos\\test\\test\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|c:\\users\\angel\\source\\repos\\test\\test\\views\\catspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55078B69-8A90-4259-B38D-D9F2D7929CEA}|test\\test.csproj|solutionrelative:test\\views\\catspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\MainPage.xaml",
+              "RelativeDocumentMoniker": "test\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\MainPage.xaml",
+              "RelativeToolTip": "test\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-07T21:31:03.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "test\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\MauiProgram.cs",
+              "RelativeToolTip": "test\\MauiProgram.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:30:44.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\CatsPage.xaml.cs",
+              "RelativeDocumentMoniker": "test\\CatsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\CatsPage.xaml.cs",
+              "RelativeToolTip": "test\\CatsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:52:49.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\ViewModels\\CatsViewModel.cs",
+              "RelativeDocumentMoniker": "test\\ViewModels\\CatsViewModel.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\ViewModels\\CatsViewModel.cs",
+              "RelativeToolTip": "test\\ViewModels\\CatsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T04:16:27.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "test\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\MainPage.xaml.cs",
+              "RelativeToolTip": "test\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:30:59.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "test\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\AppShell.xaml.cs",
+              "RelativeToolTip": "test\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:52:02.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\App.xaml.cs",
+              "RelativeDocumentMoniker": "test\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\App.xaml.cs",
+              "RelativeToolTip": "test\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T04:21:48.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DogsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\Views\\DogsPage.xaml",
+              "RelativeDocumentMoniker": "test\\Views\\DogsPage.xaml",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\Views\\DogsPage.xaml",
+              "RelativeToolTip": "test\\Views\\DogsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T04:12:13.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CatsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\CatsPage.xaml",
+              "RelativeDocumentMoniker": "test\\CatsPage.xaml",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\CatsPage.xaml",
+              "RelativeToolTip": "test\\CatsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-07T22:27:54.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CatsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\Views\\CatsPage.xaml.cs",
+              "RelativeDocumentMoniker": "test\\Views\\CatsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\Views\\CatsPage.xaml.cs",
+              "RelativeToolTip": "test\\Views\\CatsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:53:23.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DogsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\ViewModels\\DogsViewModel.cs",
+              "RelativeDocumentMoniker": "test\\ViewModels\\DogsViewModel.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\ViewModels\\DogsViewModel.cs",
+              "RelativeToolTip": "test\\ViewModels\\DogsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T04:16:49.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DogsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\Views\\DogsPage.xaml.cs",
+              "RelativeDocumentMoniker": "test\\Views\\DogsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\Views\\DogsPage.xaml.cs",
+              "RelativeToolTip": "test\\Views\\DogsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T04:42:15.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\App.xaml",
+              "RelativeDocumentMoniker": "test\\App.xaml",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\App.xaml",
+              "RelativeToolTip": "test\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T20:52:11.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\AppShell.xaml",
+              "RelativeDocumentMoniker": "test\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\AppShell.xaml",
+              "RelativeToolTip": "test\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-07T21:33:10.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "test\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "test\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:56:43.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CatsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\test\\test\\Views\\CatsPage.xaml",
+              "RelativeDocumentMoniker": "test\\Views\\CatsPage.xaml",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\test\\test\\Views\\CatsPage.xaml",
+              "RelativeToolTip": "test\\Views\\CatsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T04:11:47.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
